@@ -1,0 +1,22 @@
+
+ body {
+            font-family: 'Open Sans';
+            padding-top: 5%;
+            background-attachment:fixed;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+.card{
+    background-color: white;
+    padding-top:10%;
+    padding-bottom: 20%;
+    padding-right: 10%;
+    border-radius: 10px;
+}
+
+#temperature{
+    font-size: 32px;
+    font-weight: bold;
+
+}
